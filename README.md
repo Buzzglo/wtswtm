@@ -1,6 +1,9 @@
 # wtswtm
 some funnies from IT support
 
+WTS = What they say? 
+WTM = What they mean?
+
 WTS: “My deployment is failing?”
 WTM: “IDK what the fuck is going is on?”
 
